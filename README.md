@@ -1,2 +1,3 @@
 # hello-world
-A hello world repo
+
+This is a hello world repository created because github told me it would be a good idea.
